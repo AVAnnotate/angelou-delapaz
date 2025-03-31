@@ -16,7 +16,13 @@
     "authors": "Francine Dela Paz",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "fran-dlpz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200726250?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -108,7 +114,7 @@
       ]
     },
     "created_at": "2025-03-31T03:04:27.994Z",
-    "updated_at": "2025-03-31T03:16:30.139Z",
+    "updated_at": "2025-03-31T03:16:59.223Z",
     "generate_pages_site": true
   },
   "is_private": false
