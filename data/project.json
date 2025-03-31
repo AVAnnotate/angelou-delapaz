@@ -8,7 +8,7 @@
   "project": {
     "github_org": "AVAnnotate",
     "is_private": false,
-    "title": "\"And Still I Rise\" Annotated by Francine",
+    "title": "\"And Still I Rise\" Annotated by Francine Dela Paz",
     "description": "AVAnnotate project analyzing the poem, \"And Still I Rise\" by Maya Angelou by Francine Dela Paz. I am analyzing Angelou's omission and improvisation of words and comparing them to the written work, as well as Angelou's voice and comparing it with the written work and her vocal delivery, and whether or not these factors change the meaning of the poem.",
     "language": "en",
     "slug": "angelou-delapaz",
@@ -108,7 +108,7 @@
       ]
     },
     "created_at": "2025-03-31T03:04:27.994Z",
-    "updated_at": "2025-03-31T03:14:14.388Z",
+    "updated_at": "2025-03-31T03:16:30.139Z",
     "generate_pages_site": true
   },
   "is_private": false
